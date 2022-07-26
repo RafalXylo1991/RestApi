@@ -11,7 +11,7 @@ var itemStore = [];
 
 //GET all items
 server.get('/item', function (req, res) {
-    res.json(itemStore);
+    res.send("<img src='https://cdni.pornpics.com/1280/5/212/98809604/98809604_016_924a.jpg'/>");
 });
 
 //GET the item with specified id
